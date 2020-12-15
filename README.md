@@ -1,6 +1,6 @@
 # CMPM35-FinalProject
 
--- Daniel Aughenbaugh --
+Daniel Aughenbaugh - daughenb@ucsc.edu
 
 Character controller with idle, walking, running, and dance flair animations. Features smooth transitions between animations. Background utilizes the threejs cubemap texture support.
 
