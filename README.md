@@ -4,7 +4,7 @@ By Daniel Aughenbaugh
 
 ![Screenshot1](https://user-images.githubusercontent.com/69946060/102160089-a196ba80-3e39-11eb-95dc-0ec5cea755dc.png)
 
-
+![Screenshot2](https://user-images.githubusercontent.com/69946060/102160156-bd9a5c00-3e39-11eb-824a-94d6a82bb6d7.png)
 
 Model and animations from [Mixamo](https://www.mixamo.com/#/).
 
