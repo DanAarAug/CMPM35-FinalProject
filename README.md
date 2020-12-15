@@ -2,10 +2,14 @@
 
 By Daniel Aughenbaugh
 
-![Screenshot1](https://user-images.githubusercontent.com/69946060/102160089-a196ba80-3e39-11eb-95dc-0ec5cea755dc.png)
-
-![Screenshot2](https://user-images.githubusercontent.com/69946060/102160156-bd9a5c00-3e39-11eb-824a-94d6a82bb6d7.png)
+Character controller with idle, walking, running, and dance flair animations.
 
 Model and animations from [Mixamo](https://www.mixamo.com/#/).
 
 Cubemap from [Wikipedia](https://en.wikipedia.org/wiki/Cube_mapping#/media/File:Panorama_cube_map.png).
+
+Based on [this ThreeJS example](https://github.com/mrdoob/three.js/blob/master/examples/webgl_loader_md2_control.html).
+
+![Screenshot1](https://user-images.githubusercontent.com/69946060/102160089-a196ba80-3e39-11eb-95dc-0ec5cea755dc.png)
+
+![Screenshot2](https://user-images.githubusercontent.com/69946060/102160156-bd9a5c00-3e39-11eb-824a-94d6a82bb6d7.png)
