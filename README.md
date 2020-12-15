@@ -2,7 +2,7 @@
 
 By Daniel Aughenbaugh
 
-![Project Screenshot](https://imgur.com/zZt86Qb)
+![Screenshot1](./Screenshot1)
 
 
 Model and animations from [Mixamo](https://www.mixamo.com/#/).
