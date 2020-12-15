@@ -8,7 +8,7 @@ Model and animations from [Mixamo](https://www.mixamo.com/#/).
 
 Cubemap from [Wikipedia](https://en.wikipedia.org/wiki/Cube_mapping#/media/File:Panorama_cube_map.png) (this was the only Creative Commons cubemap I could find, and the borders aren't perfect as I cropped them from the full image).
 
-Code based on [this threejs example](https://github.com/mrdoob/three.js/blob/master/examples/webgl_loader_md2_control.html).
+Code based on [this threejs example](https://github.com/mrdoob/three.js/blob/master/examples/webgl_loader_md2_control.html) and [this tutorial](https://www.youtube.com/watch?v=EkPfhzIbp2g).
 
 Controls: WASD to walk. Hold shift to run. Press space to do a dance flair. Default threejs orbit camera controls.
 
