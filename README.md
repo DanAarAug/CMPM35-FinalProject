@@ -2,6 +2,8 @@
 
 By Daniel Aughenbaugh
 
+![Screenshot1](https://user-images.githubusercontent.com/69946060/102160089-a196ba80-3e39-11eb-95dc-0ec5cea755dc.png)
+
 
 
 Model and animations from [Mixamo](https://www.mixamo.com/#/).
