@@ -6,7 +6,7 @@ Character controller with idle, walking, running, and dance flair animations.
 
 Model and animations from [Mixamo](https://www.mixamo.com/#/).
 
-Cubemap from [Wikipedia](https://en.wikipedia.org/wiki/Cube_mapping#/media/File:Panorama_cube_map.png).
+Cubemap from [Wikipedia](https://en.wikipedia.org/wiki/Cube_mapping#/media/File:Panorama_cube_map.png) (this was the only Creative Commons cubemap I could find, and the borders aren't perfect as I cropped them from the full image).
 
 Based on [this ThreeJS example](https://github.com/mrdoob/three.js/blob/master/examples/webgl_loader_md2_control.html).
 
